@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ebe53ee0e50e146428baca045d06b0dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chesspiece: {instanceID: 0}
+  - MenuImage: {fileID: 4883595457120208765, guid: 2ef7f8d27238ff440aca8dd026c0436e,
+      type: 3}
+  - onePlayerBtn: {fileID: 6543301194807600691, guid: 17692844ddfcbff43b5c188458f33986,
+      type: 3}
+  - twoPlayerBtn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
