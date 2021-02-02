@@ -8,7 +8,7 @@
 
  1. 1 Player , 2 player modes.
  2. Adding block for stones.
- 3. Calculation distance to main stone.
+ 3. Calculation of distance to main stone.
  
  ##
 
