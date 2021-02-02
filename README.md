@@ -2,6 +2,8 @@
 
   MonoLift is a game where you try to collect your stones from one main location. For win, you have to collect all of your stones first. In every game positions of stones is random. There is 1 player and local 2 player modes.  Also you can add block's for stones to make game harder. Go ahead, download "MonoLiftBuild" and take a look at the game. Have Fun!
 
+
+
 > I developed this game for Software Testing course term project.
  
 ##
