@@ -9,9 +9,9 @@
 ##
 #### Features
 
- 1. 1 Player , 2 player modes.
- 2. Adding block for stones.
- 3. Calculation of distance to main stone.
+ - 1 Player , 2 player modes.
+ - Adding block for stones.
+ - Calculation of distance to main stone.
  
  ---------------------------------------
 
